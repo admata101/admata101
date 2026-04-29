@@ -1,5 +1,5 @@
 # Hey there! I'm Carlos Adrián Mata Nevárez!👋
-# second repository for work - same person😁👍😎
+# This is my second repository for work - same person😁👍😎
 
 <div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height=250px width=60% /></div>
 
